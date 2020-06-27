@@ -1,0 +1,6 @@
+
+
+
+1. create a user post route - Register a user
+2. create auth middleware
+3. create auth get route - Log in a user

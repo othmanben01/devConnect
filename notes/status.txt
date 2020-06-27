@@ -1,0 +1,11 @@
+
+
+
+
+
+400: Bad request
+401: Unauthorized   
+  ex: send 401 if !token
+
+
+301: moved permanently

@@ -1,0 +1,3 @@
+when dealing with request to apis:
+  1. checkout if there is error
+  2. checkout if the status is !200

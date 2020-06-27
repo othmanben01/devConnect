@@ -1,0 +1,16 @@
+{
+  "db": {
+    "mongoURI": "mongodb+srv://othman:1234@devconnector.7dt2f.mongodb.net/DevConnector?retryWrites=true&w=majority"
+  },
+  "hash": {
+    "saltRounds": 10
+  },
+  "auth": {
+    "jwtSecret": "jwtPrivateToken_04",
+    "expiresIn": 360000000
+  },
+  "github": {
+    "githubClientId": "Iv1.208fece557dcc686",
+    "githubSecret": "b2aeffef34425b42d270d6fc95ace6686530666e"
+  }
+}
